@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 44eff0ff096f0a642b9dfbc40ffc66b0, type: 3}
+  m_Name: LeaderboardData
+  m_EditorClassIdentifier: 
+  names:
+  - Jack
+  - Michael
+  - Diana
+  - Maria
+  - Ivan
+  - Oksana
+  - Darya
+  - Maksim
+  - Eugene
+  - Michael
+  results:
+  - 111.1
+  - 122.3
+  - 123.4
+  - 133.33
+  - 148.5
+  - 154.15019
+  - 162.8
+  - 184
+  - 185.2
+  - 195.1
